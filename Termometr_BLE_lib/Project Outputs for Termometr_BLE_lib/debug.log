@@ -1,0 +1,2 @@
+[0212/003426:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Tylko jedno u¿ycie ka¿dego adresu gniazda (protokó³/adres sieciowy/port) jest normalnie dozwolone. (0x2740)
+[0212/003426:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.

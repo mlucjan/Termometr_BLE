@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Termometr_BLE\Termometr_BLE.PrjPcb
+[Project2]
+ProjectPath=Termometr_BLE_lib\Termometr_BLE_lib.LibPkg
+[Project3]
+ProjectPath=MSP430FR5989_lib\2020-02-12_00-01-13.LibPkg
